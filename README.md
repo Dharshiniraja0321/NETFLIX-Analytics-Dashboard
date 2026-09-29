@@ -32,7 +32,7 @@ All filters default to "All" and apply across every visual.
 4. Reset a slicer to "All" to see the full catalog.
 
 ## Data Source
-Netflix titles dataset (title, type, genre, country, year added, rating). Add the source name/link here.
+Netflix titles dataset (title, type, genre, country, year added, rating).
 
 ## Author
-Add your name and contact/GitHub link here.
+Dharshini Raja
